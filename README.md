@@ -1,2 +1,2 @@
 # Reptile-Search-Algorithm
-Tester différentes fonctions mathématiques sur Slime Mould Algorithm en python
+Tester différentes fonctions mathématiques sur Reptile Search Algorithm en python
